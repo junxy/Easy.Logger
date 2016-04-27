@@ -36,6 +36,10 @@
       <HintPath>..\packages\log4net.2.0.5\lib\net40-full\log4net.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="log4net.ElasticSearch.Net40, Version=2.3.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.ElasticSearch.2.3.2\lib\net40\log4net.ElasticSearch.Net40.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="log4net.Ext.Json, Version=1.2.15.4227, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.Ext.Json.1.2.15.14586\lib\net40-full\log4net.Ext.Json.dll</HintPath>
       <Private>True</Private>
