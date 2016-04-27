@@ -32,8 +32,8 @@
         private void Run()
         {
             _logger.Info("Benchmarking starting");
-//            TestThroughput();
-            TestMultiThreading();
+            TestThroughput();
+//            TestMultiThreading();
 //            TestIdle();
             _logger.Warn("Benchmarking ended");
 
